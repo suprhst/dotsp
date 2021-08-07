@@ -1,0 +1,79 @@
+10:14:44 PM.810: CPU Name: Intel(R) Core(TM) i5-8250U CPU @ 1.60GHz
+10:14:44 PM.810: CPU Speed: 3400.000MHz
+10:14:44 PM.811: Physical Cores: 4, Logical Cores: 8
+10:14:44 PM.811: Physical Memory: 11877MB Total, 11002MB Free
+10:14:44 PM.811: Kernel Version: Linux 5.12.14-arch1-1
+10:14:44 PM.811: Distribution: "Arch Linux" Unknown
+10:14:44 PM.811: Session Type: tty
+10:14:44 PM.811: Window System: X11.0, Vendor: The X.Org Foundation, Version: 1.20.11
+10:14:44 PM.814: Portable mode: false
+10:14:44 PM.944: OBS 27.0.1-1 (linux)
+10:14:44 PM.944: ---------------------------------
+10:14:44 PM.948: ---------------------------------
+10:14:44 PM.948: audio settings reset:
+10:14:44 PM.948: 	samples per sec: 48000
+10:14:44 PM.948: 	speakers:        2
+10:14:44 PM.962: ---------------------------------
+10:14:44 PM.962: Initializing OpenGL...
+10:14:45 PM.029: Loading up OpenGL on adapter Intel Mesa Intel(R) UHD Graphics 620 (KBL GT2)
+10:14:45 PM.029: OpenGL loaded successfully, version 4.6 (Core Profile) Mesa 21.1.4, shading language 4.60
+10:14:45 PM.095: ---------------------------------
+10:14:45 PM.095: video settings reset:
+10:14:45 PM.095: 	base resolution:   1920x1080
+10:14:45 PM.095: 	output resolution: 1280x720
+10:14:45 PM.095: 	downscale filter:  Bicubic
+10:14:45 PM.095: 	fps:               30/1
+10:14:45 PM.095: 	format:            NV12
+10:14:45 PM.095: 	YUV mode:          709/Partial
+10:14:45 PM.095: NV12 texture support not available
+10:14:45 PM.104: Audio monitoring device:
+10:14:45 PM.104: 	name: Default
+10:14:45 PM.104: 	id: default
+10:14:45 PM.105: ---------------------------------
+10:14:45 PM.111: Failed to load 'en-US' text for module: 'decklink-captions.so'
+10:14:45 PM.119: Failed to load 'en-US' text for module: 'decklink-ouput-ui.so'
+10:14:45 PM.264: A DeckLink iterator could not be created.  The DeckLink drivers may not be installed
+10:14:45 PM.264: No blackmagic support
+10:14:45 PM.310: v4l2loopback not installed, virtual camera disabled
+10:14:45 PM.396: os_dlopen(libnvidia-encode.so.1->libnvidia-encode.so.1): libnvidia-encode.so.1: cannot open shared object file: No such file or directory
+10:14:45 PM.396: 
+10:14:45 PM.396: FFMPEG VAAPI supported
+10:14:45 PM.453: os_dlopen(/usr//lib/obs-plugins/sndio.so->/usr//lib/obs-plugins/sndio.so): libsndio.so.7.1: cannot open shared object file: No such file or directory
+10:14:45 PM.453: 
+10:14:45 PM.453: Module '/usr//lib/obs-plugins/sndio.so' not loaded
+10:14:45 PM.458: ---------------------------------
+10:14:45 PM.458:   Loaded Modules:
+10:14:45 PM.458:     text-freetype2.so
+10:14:45 PM.458:     rtmp-services.so
+10:14:45 PM.458:     obs-x264.so
+10:14:45 PM.458:     obs-transitions.so
+10:14:45 PM.458:     obs-outputs.so
+10:14:45 PM.458:     obs-libfdk.so
+10:14:45 PM.458:     obs-filters.so
+10:14:45 PM.458:     obs-ffmpeg.so
+10:14:45 PM.458:     linux-v4l2.so
+10:14:45 PM.458:     linux-pulseaudio.so
+10:14:45 PM.458:     linux-jack.so
+10:14:45 PM.458:     linux-decklink.so
+10:14:45 PM.458:     linux-capture.so
+10:14:45 PM.458:     linux-alsa.so
+10:14:45 PM.458:     image-source.so
+10:14:45 PM.458:     frontend-tools.so
+10:14:45 PM.458:     decklink-ouput-ui.so
+10:14:45 PM.458:     decklink-captions.so
+10:14:45 PM.458: ---------------------------------
+10:14:45 PM.461: ==== Startup complete ===============================================
+10:14:45 PM.474: All scene data cleared
+10:14:45 PM.475: ------------------------------------------------
+10:14:45 PM.494: xshm-input: Geometry 1920x1080 @ 0,0
+10:14:45 PM.509: alsa-input: PCM 'default' rate set to 48000
+10:14:45 PM.509: alsa-input: PCM 'default' channels set to 2
+10:14:45 PM.510: Switched to scene 'Scene'
+10:14:45 PM.519: ------------------------------------------------
+10:14:45 PM.519: Loaded scenes:
+10:14:45 PM.519: - scene 'Scene':
+10:14:45 PM.523:     - source: 'Audio Capture Device (ALSA)' (alsa_input_capture)
+10:14:45 PM.523:     - source: 'Screen Capture (XSHM)' (xshm_input)
+10:14:45 PM.523: ------------------------------------------------
+10:14:46 PM.661: adding 362 milliseconds of audio buffering, total audio buffering is now 362 milliseconds (source: Audio Capture Device (ALSA))
+10:14:46 PM.661: 
